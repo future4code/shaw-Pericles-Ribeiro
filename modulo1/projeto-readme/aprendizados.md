@@ -1,0 +1,2 @@
+#Aprendizado da semana
+**A primeira semana é a mais desafiadora**, pra que mnunca usou essas funçoes acaba sendo algo de louco. Durante essa semana tive a oportunidade de "virar Hackear" kkkkk aprendendo a usar o terminal, depois aprendi um pouco sobre como usar o VsCode, e são aprendizados que nos levam ao topo da montanha.
