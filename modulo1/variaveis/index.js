@@ -20,14 +20,16 @@
 // console.log (terceiraPergunta)
 
 //Suponha que temos duas variáveis a e b, cada uma com um valor inicial
-let a = 10
-let b = 25
+// let a = 10
+// let b = 25
 
-let c = a;
-a = b;
-b = c;
-console.log ("O novo valor de a é", a);
-console.log ("O novo valor de b é", b); 
+// let c = a;
+// a = b;
+// b = c;
+// console.log ("O novo valor de a é", a);
+// console.log ("O novo valor de b é", b); 
+
+
 
 
 
