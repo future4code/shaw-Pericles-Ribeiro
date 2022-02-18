@@ -55,7 +55,7 @@
 // const MinhaCidade = "Camaçari-ba"
 // const profissão = "em busca de emprego kkk."
 
-// const informaçõesPessoais = 'Meu nome é, ' + nome + " tenho " + minhaIdade + " moro na cidade de " + MinhaCidade + ", e temporariamente estou, " + profissão 
+//  const informaçõesPessoais = 'Meu nome é, ' + nome + " tenho " + minhaIdade + " moro na cidade de " + MinhaCidade + ", e temporariamente estou, " + profissão 
 
 // console.log(informaçõesPessoais);
 
@@ -132,6 +132,17 @@
 //         console.log(conta, diferença); 
 //     console.log(vezes, receba) 
 // console.log(divisão, recebe)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
