@@ -11,13 +11,14 @@
  * 
  */
 
-console.log("Boas vindas ao jogo de Blackjack!")
+
+    console.log("Boas vindas ao jogo de Blackjack!")
 
 if(confirm("Quer iniciar uma nova rodada?")) {
 
 
-let usuario = comprarCarta() 
-let computador = comprarCarta()
+const usuario = comprarCarta() 
+const computador = comprarCarta()
 
 
 const carta = comprarCarta(); 
@@ -28,23 +29,25 @@ const somaUsuario = usuario.valor + usuario.valor
 const somaPc = computador.valor + computador.valor
 
 
-console.log(`Usuário - cartas: ${carta.texto}  ${carta2.texto} - ${somaUsuario}`) 
-console.log(`Computador - cartas:  ${carta.texto}  ${carta2.texto} - ${somaPc }`)
+console.log(`Usuário - cartas: ${carta.texto}  ${carta2.texto} - ${somaUsuario}`)
+console.log(`Computador - cartas:  ${carta.texto}  ${carta.texto} - ${somaPc }`)
 
 
-if (usuario > computador){
+if (somaUsuario > somaPc){
    console.log("O usuário ganhou!")
 
-}else if(computador > usuario){
+}else if(somaPc > somaUsuario ){
    console.log("O computador ganhou!");
 
-}else if(usuario === computador){
+}else if(somaUsuario  === somaPc){
    console.log("Empate!");
+
 }
 
    } else { console.log("O jogo acabou");
-	
+
 }
+
 
 
 
