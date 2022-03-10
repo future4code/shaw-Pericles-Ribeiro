@@ -15,14 +15,25 @@ h2 {
     color: white;
     text-align: center;
 }
+h1{
+    padding: 100px 5px 10px 5px;
+}
+
+ol{
+    list-style-position: inside;
+}
 
 input {
     height: 20px;
     width: 500px;
 }
 
+
+
 button:focus {
     color: white;
+    background-color: #002df7;
+  
 }
 
 img {
@@ -34,7 +45,8 @@ div>p:first-child {
 }
 
 div img {
-    background: black;
+    width: 100px;
+    background: rgb(255, 255, 255);
 }
 
 .botao-amarelo {
@@ -101,8 +113,12 @@ div:last-child {
     text-align: center;
 }
 
+
 table {
-    width: 60%;
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+
 }
 
 td button {
@@ -120,7 +136,7 @@ td button {
 
 
 #back-button {
-    background-color: white;
+    background-color: rgb(248, 4, 4);
     width: 100px;
     height: 20px;
     border: 1px solid black;
