@@ -1,0 +1,53 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    background-color: #5cc2a0;
+    padding: 15px 5px 10px 20px;
+    color: white;
+    text-align: center;
+}
+
+#container-descricao{
+    background-color: lightslategray;
+    color: aliceblue;
+}
+
+#container-descricao{
+    padding: 240px 0px;
+}
+
+#container-descricao{
+    background-color: darkcyan;
+}
+
+img{
+    height: 450px;
+    width: 400;
+    
+}
+
+table{
+    text-align: center;
+    width: 70px;
+    margin: 0 auto;
+}
+
+
+p{
+    font-size: xx-large;
+    text-align: center;
+  
+}
+
+div{
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+
+
+
