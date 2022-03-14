@@ -1,0 +1,38 @@
+*{
+    margin: 0 auto;
+    width: 0 auto;
+}
+
+
+h2{
+    background-color: mediumvioletred;
+    padding: 1px 1px 10px 2px;
+    color: black;
+}
+
+h3{
+    background-color: mediumvioletred;
+    padding: 1px 15px 10px 2px;
+    color: black;
+
+}
+img{
+    width: 31px;
+    height: 30px;
+}
+
+
+  #container-descricao{
+    background-color: #f2d0e0;
+    width: 230px;
+    position: fixed;
+    height: 550px;   
+    color: rgb(3, 3, 3);
+}
+
+
+
+
+
+
+
